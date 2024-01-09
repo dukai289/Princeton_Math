@@ -15,3 +15,10 @@
 
 # PDF
 [Rutgers University/ Mathematics Department/ PCM](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
+
+# Content
+## Part I Introduction
+1. What is Mathematics About?
+2. The Language and Grammar of Mathematics
+3. Some Fundamental Mathematical Definitions
+4. The General Goals of Mathematical Research
