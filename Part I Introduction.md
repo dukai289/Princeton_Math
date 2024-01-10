@@ -21,8 +21,9 @@
 
 # 2. The Language and Grammar of Mathematics
 ## 2.1 Introduction
+> The main reason for using mathematical grammar is that the statements of mathematics are supposed to be completely precise, and it is not possible to achieve complete precision unless the language one uses is free of many of the vaguenesses and ambiguities of ordinary speech.
 ## 2.2 Four Basic Concepts
-+ `Sets`
++ `Sets`: $ i\in S $
 + `Functions`
 + `Relations`
 + `Binary Operations`
