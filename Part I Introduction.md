@@ -23,15 +23,22 @@
 ## 2.1 Introduction
 > The main reason for using mathematical grammar is that the statements of mathematics are supposed to be completely precise, and it is not possible to achieve complete precision unless the language one uses is free of many of the vaguenesses and ambiguities of ordinary speech.
 ## 2.2 Four Basic Concepts
-+ `Sets`: $ i\in S $
-+ `Functions`
++ `Sets`: $ i\in S, \empty $
++ `Functions`: mathematical transformation
+    + `domain`, `range`, `image`
+    + `injection`, `surjection`, `bijection`
 + `Relations`
+    + `equivalence relations`: reflexive, symmetric, transitive
 + `Binary Operations`
+    + `commutative`
+    + `associative`
+    + `identity`
+    + `inverse`
 ## 2.3 Some Elementary Logic
-+ `Logical Connectives`
-+ `Quantifiers`
-+ `Negation`
-+ `Free and Bound Variables`
++ `Logical Connectives`: $ \land, \lor, \implies  $
++ `Quantifiers`: $ \forall, \exists$
++ `Negation`: $\lnot $
++ `Free and Bound Variables`: $$
 ## 2.4 Levels of Formality
 
 # 3. Some Fundamental Mathematical Definitions
