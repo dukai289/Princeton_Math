@@ -38,23 +38,46 @@
 + `Logical Connectives`: $ \land, \lor, \implies  $
 + `Quantifiers`: $ \forall, \exists$
 + `Negation`: $\lnot $
-+ `Free and Bound Variables`: $$
++ `Free and Bound Variables`
 ## 2.4 Levels of Formality
 
 # 3. Some Fundamental Mathematical Definitions
 ## 3.1 The Main Number Systems
++ `The Natural Numbers` $\N$
++ `The Integers` $\Z$
++ `The Rational Numbers` $Q$
++ `The Real Numbers` $\R$
++ `THe Complex Numbers` $C$
 ## 3.2 Four Important Algebraic Structures
-### 3.2.1 Groups
-### 3.2.2 Fields
-### 3.2.3 Vector Spaces
-### 3.2.4 Rings
++ `Groups`
++ `Fields`
++ `Vector Spaces`
++ `Rings`
 ## 3.3 Creating New Structures Out of Old Ones
-### 3.3.1 Substructures
-### 3.3.2 Products
-### 3.3.3 Quotients
++ `Substructures`
++ `Products`
++ `Quotients`
 ## 3.4 Functions between Algebraic Structures
-### 3.4.1 Homomorphisms, Isomorphisms, and Automorphisms
-### 3.4.2 Linear Maps and Matrices
-### 3.4.3 Eigenvalues and Eigenvectors
++ `Homomorphisms`, `Isomorphisms`, and `Automorphisms`
++ `Linear Maps` and `Matrices`
++ `Eigenvalues` and `Eigenvectors`
+## 3.5 Basic Concepts of Mathematical Analysis
++ `Limits`
++ `Continuity`
++ `Differentiation`
++ `Partial Differential Equations`
++ `Integration`
++ `Holomorphic Functions`
+## 3.6 What is Geometry?
++ Geometry and Symmetry Groups
++ Euclidean Geometry
++ Affine Geometry
++ Topology
++ Spherical Geometry
++ Hyperbolic Geometry
++ Projective Geometry
++ Lorentz Geometry
++ Manifolds and Differential Geometry
++ Riemannian Metrics
 
 # 4. The General Goals of Mathematical Research
